@@ -40,7 +40,7 @@ The goal is to **experiment, learn, and document** how multimodal embeddings and
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/your-username/multimodal-rag.git
+   git clone https://github.com/RogerSJR2004/Building-Multimodal-Search-and-RAG.git
    cd multimodal-rag
    ```
 
